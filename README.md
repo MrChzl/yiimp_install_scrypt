@@ -1,3 +1,5 @@
+THIS IS PURELY AN ATTEMPT AT WHAT I CALL SMUSH DEVELOPMENT. DO NOT USE FOR PRODUCTION UNDER ANY CIRCUMSTANCES!!!!!
+
 # Yiimp_install_scrypt v0.2 (update Avril, 2020)
 
 Site : https://www.xavatar.com
